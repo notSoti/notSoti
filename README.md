@@ -45,10 +45,11 @@
 
 ---
 
-## 📫 Let’s Connect
-- 💬 Feel free to drop a message here on GitHub!
+<!-- ## 📫 Let’s Connect
+- 💬 rember to add website here when ready
 
 ---
+-->
 
 <p align="center">
   🌲 🌳 🌲 🌴 🌱 🌳 🌲  
