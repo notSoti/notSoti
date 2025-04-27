@@ -25,7 +25,7 @@
 ---
 
 ## 💼 Projects & Experiments
-- Sarcasma: A funny AI chatbot that brought chaos to 1.7k+ Discord servers ([top.gg link](https://top.gg/bot/1096848485183127712?s=0a4cd6574a7d6)); now enjoying retirement
+- **Sarcasma**: A funny AI chatbot that brought chaos to 1.7k+ Discord servers ([top.gg link](https://top.gg/bot/1096848485183127712?s=0a4cd6574a7d6)); now enjoying retirement
 - **Discord Bot Collection**: Automated moderation & fun commands to keep servers lively
 - **Personal Portfolio Website**: Built with HTML, CSS & JS to showcase my work
 
