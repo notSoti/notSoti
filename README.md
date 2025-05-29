@@ -19,7 +19,11 @@
 </p>
 
 
-# Hello, I’m Soti! 🌱
+<h1> Hello, I’m Soti! 
+  <a href="https://www.pinterest.com/pin/1900024839029249/" target="_blank">
+    <img src="https://i.pinimg.com/736x/51/bc/8a/51bc8a6574ab2034ede409fc8170dbff.jpg" width="37">
+  </a> 
+</h1>
 
 > 3rd-year Computer Science student obsessed with software development (and anything cute)
 
@@ -63,6 +67,14 @@
   <picture>
     <img src="https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&pause=300000&color=8D72E1&center=true&vCenter=true&repeat=false&width=500&lines=;still+here%3F+fine%2C+lemme+find+some+dumb+jokes...;why+don’t+programmers+like+nature%3F+...too+many+bugs;why+did+the+JavaScript+array+break+up+with+its+partner%3F+...it+needed+space+to+think;why+did+the+Python+dev+break+up+with+Java%3F+...because+it+was+too+classy;why+was+the+Javascript+developer+so+calm%3F+...because+they+always+handled+promises;what+do+you+call+8+hobbits%3F+...a+hobbyte;so...+you're+still+here+for+some+reason...;do+you+want+an+achievement+for+staring+at+text+for+so+long+or+something%3F;k+bye;+" alt="Hidden jokes" />
   </picture>
+</p>
+
+
+<p align="center">
+  <a href="https://www.pinterest.com/pin/221169031695412619/" target="_blank">
+    <img src="https://i.pinimg.com/736x/fe/b9/0f/feb90fae17b7e76bc8db21d5c0344ad6.jpg" alt="miku" width="450" style="border-radius: 12px;">
+  </a>
+  <br>
 </p>
 
 <p align="center">
